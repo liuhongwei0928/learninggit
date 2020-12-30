@@ -1,2 +1,4 @@
 git is version control system 
 git is so easy
+git 1
+git 2
